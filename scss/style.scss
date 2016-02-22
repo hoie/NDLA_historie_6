@@ -161,7 +161,7 @@ button {
 .n7 {
 	left: $col-3;
 	top: 10%;
-	height: 82%;
+	height: $col-height * 4 + $node-height;
 }
 
 
